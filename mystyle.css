@@ -1,0 +1,18 @@
+body{
+    width:70%;
+    margin:auto;
+    background-color:gray
+}
+h1{
+   color:red;
+}
+h2{
+  color:blue;
+}
+p{
+   text-align:justify;
+   background-color:pink;
+   border:6px outset green;
+   padding:3px 9px;
+   font: 400 15px monospace;
+}
