@@ -1,0 +1,16 @@
+body{
+    width:80%;
+    margin:auto;
+    background-color:pink
+}
+h1{
+   color:Brown;
+}
+
+p{
+   text-align:justify;
+   background-color:gray;
+   border:6px outset orange;
+   padding:3px 9px;
+   font: 400 15px monospace;
+}
