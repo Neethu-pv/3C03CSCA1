@@ -1,0 +1,30 @@
+body{
+ width=60%;
+ margin=auto;
+}    
+h1,h2{
+   height:20px;
+}
+#mainmenu{
+     text-align:right;
+     background-color:red;
+     margin-top:20px;
+     padding:20px;
+     color:white;
+     font-weight:bold;
+}
+#mainimage{
+   width:100%;
+}
+#aboutkasaragodhead{
+             background-color:blue;
+             color:white;
+             padding:10px;
+}
+#aboutkasaragoddesc{
+         background-color:pink;
+         text-align:justify;
+         padding:10px;
+	 font-weight:bold;
+        
+}
